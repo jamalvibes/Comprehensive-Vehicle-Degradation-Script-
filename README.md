@@ -6,7 +6,7 @@ This FiveM script will enhance the way you drive. If you get into a severe crash
 #### Latest Builds
 
 |Latest Build|
-1.0
+v1.0.0
 
 Do not claim this as your own.
 Below is a showcase video expaining the ins and outs of the script.
