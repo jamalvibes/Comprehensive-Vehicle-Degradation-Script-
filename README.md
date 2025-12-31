@@ -10,5 +10,5 @@ v1.0.0
 
 Do not claim this as your own.
 Below is a showcase video expaining the ins and outs of the script.
-    
+    https://youtu.be/rZ5tQCBT1cg?si=fboPYRbnbzLQahCA 
 If you need any support add me on discord @jamal.vbz
